@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "779507921166",
+    "firebase_url": "https://covid19-quizstar.firebaseio.com",
+    "project_id": "covid19-quizstar",
+    "storage_bucket": "covid19-quizstar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779507921166:android:108ee1550abda1bad2e75f",
+        "android_client_info": {
+          "package_name": "com.kide.coronago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779507921166-nfu0c5derjiguhodbeg9prmint7ee9nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7UkFj6nC5JGYBR0aHyT2leXzm3zBn5I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779507921166-nfu0c5derjiguhodbeg9prmint7ee9nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779507921166:android:c7e92ae6e1f03cd6d2e75f",
+        "android_client_info": {
+          "package_name": "com.kide.covid19_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779507921166-nfu0c5derjiguhodbeg9prmint7ee9nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7UkFj6nC5JGYBR0aHyT2leXzm3zBn5I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779507921166-nfu0c5derjiguhodbeg9prmint7ee9nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

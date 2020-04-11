@@ -1,4 +1,4 @@
-package com.kiit.covid19_quiz
+package com.kide.covid19_quiz
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
